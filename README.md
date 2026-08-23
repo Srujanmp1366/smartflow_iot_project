@@ -1,7 +1,7 @@
 
 # 🛣️ SmartFlow — IoT Dynamic Toll & Traffic Monitor
 
-An IoT-based highway simulation system with real-time traffic 
+An IoT-based highway simulation system with real-time traffic
 monitoring and dynamic toll calculation using Machine Learning.
 
 ## Hardware
