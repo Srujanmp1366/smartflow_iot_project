@@ -1,0 +1,24 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Database — don't commit, regenerates automatically
+smartflow.db
+backend/smartflow.db
+
+# ML model — don't commit, retrains automatically
+model/rf_traffic.pkl
+backend/model/rf_traffic.pkl
+
+# VS Code
+.vscode/
+
+# PlatformIO build files
+.pio/
+.pioenvs/
+
+# Windows
+Thumbs.db
+desktop.ini
